@@ -77,8 +77,8 @@ export default function Navbar() {
         <span className="flex items-center gap-1.5">
           <Zap size={12} /> India&apos;s Leading Solar Company | 25+ Years of Excellence | 1 GW+ Delivered
         </span>
-        <a href="tel:+911800-2026-252" className="flex items-center gap-1.5 hover:underline font-semibold">
-          <Phone size={12} /> +91 1800-2026-252 (Toll Free)
+        <a href="tel:+918240525205" className="flex items-center gap-1.5 hover:underline font-semibold">
+          <Phone size={12} /> +91 8240525205
         </a>
       </div>
 
@@ -96,7 +96,7 @@ export default function Navbar() {
               <Zap size={18} className="text-midnight" fill="currentColor" />
             </div>
             <span className="font-display font-bold text-xl text-white">
-              Ornate <span className="text-gradient">Solar</span>
+              SM <span className="text-gradient">Solar</span>
             </span>
           </Link>
 
