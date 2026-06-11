@@ -6,16 +6,16 @@ import WhatsAppWidget from '@/components/ui/WhatsAppWidget'
 
 export const metadata: Metadata = {
   title: {
-    default: 'Ornate Solar – India\'s Leading Solar Energy Company',
+    default: 'SM Solar – India\'s Leading Solar Energy Company',
     template: '%s | Ornate Solar',
   },
-  description: 'Ornate Solar is India\'s leading solar company specialising in designing and developing premium solar solutions — panels, inverters, energy storage, and integrated roofing. 25+ years of expertise, 1GW+ delivered.',
+  description: 'SM Solar is India\'s leading solar company specialising in designing and developing premium solar solutions — panels, inverters, energy storage, and integrated roofing. 25+ years of expertise, 1GW+ delivered.',
   keywords: ['solar panels India', 'solar inverter', 'PM KUSUM Yojana', 'BIPV', 'energy storage', 'Ornate Solar'],
   openGraph: {
     type: 'website',
     locale: 'en_IN',
-    url: 'https://ornatesolar.com',
-    siteName: 'Ornate Solar',
+    url: 'https://smsolar.com',
+    siteName: 'SM Solar',
   },
 }
 
