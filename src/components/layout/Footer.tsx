@@ -136,21 +136,21 @@ export default function Footer() {
             <h4 className="font-display font-semibold text-white mb-4 text-sm">Contact Us</h4>
             <ul className="space-y-3">
               <li>
-                <a href="tel:+918240525205" className="flex items-start gap-2.5 text-sm text-slate-400 hover:text-solar-400 transition-colors">
+                <a href="tel:+911800-2026-252" className="flex items-start gap-2.5 text-sm text-slate-400 hover:text-solar-400 transition-colors">
                   <Phone size={14} className="mt-0.5 flex-shrink-0 text-solar-500" />
-                  +91 8240525205
+                  +91 1800-2026-252
                 </a>
               </li>
               <li>
-                <a href="mailto:info@gmail.com" className="flex items-start gap-2.5 text-sm text-slate-400 hover:text-solar-400 transition-colors">
+                <a href="mailto:info@ornatesolar.com" className="flex items-start gap-2.5 text-sm text-slate-400 hover:text-solar-400 transition-colors">
                   <Mail size={14} className="mt-0.5 flex-shrink-0 text-solar-500" />
-                  info@gmail.com
+                  info@ornatesolar.com
                 </a>
               </li>
               <li>
                 <a href="https://g.page/ornatesolar" target="_blank" rel="noopener noreferrer" className="flex items-start gap-2.5 text-sm text-slate-400 hover:text-solar-400 transition-colors">
                   <MapPin size={14} className="mt-0.5 flex-shrink-0 text-solar-500" />
-                  Esplanade, Kolkata, West Bengal
+                  A-87, Okhla Phase – II, New Delhi
                 </a>
               </li>
             </ul>
@@ -174,7 +174,7 @@ export default function Footer() {
       <div className="border-t border-white/5">
         <div className="container-wide py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-slate-500">
-            © 2014–2026 SM Agencies Pvt. Limited. All Rights Reserved.
+            © 2014–2026 Ornate Agencies Pvt. Limited. All Rights Reserved.
           </p>
           <div className="flex items-center gap-4">
             <Link href="/privacy-policy" className="text-xs text-slate-500 hover:text-slate-300 transition-colors">
